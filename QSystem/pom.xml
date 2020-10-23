@@ -286,7 +286,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-webapp</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.33.v20201020</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -296,7 +296,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-runner</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.33.v20201020</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -306,7 +306,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-annotations</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.33.v20201020</version>
 		</dependency>
 		<dependency>
 			<groupId>org.glassfish</groupId>
