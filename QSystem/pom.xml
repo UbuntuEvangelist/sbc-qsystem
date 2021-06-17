@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.33</version>
+			<version>8.0.16</version>
 		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>
@@ -36,17 +36,17 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-beans</artifactId>
-			<version>4.0.0.RELEASE</version>
+			<version>4.0.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
-			<version>4.0.0.RELEASE</version>
+			<version>4.0.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jdbc</artifactId>
-			<version>4.0.0.RELEASE</version>
+			<version>4.0.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -61,7 +61,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-orm</artifactId>
-			<version>4.0.0.RELEASE</version>
+			<version>4.0.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -246,7 +246,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-server</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.39.v20210325</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -271,7 +271,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-servlet</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.39.v20210325</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -281,12 +281,12 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-security</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.39.v20210325</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-webapp</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.39.v20210325</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -296,7 +296,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-runner</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.39.v20210325</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
