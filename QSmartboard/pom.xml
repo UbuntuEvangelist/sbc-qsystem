@@ -285,7 +285,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-webapp</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.52.v20230823</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
@@ -300,7 +300,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-xml</artifactId>
-			<version>9.0.4.v20130625</version>
+			<version>9.4.52.v20230823</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
