@@ -75,7 +75,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>4.3.6.Final</version>
+			<version>5.1.17.Final</version>
 		</dependency>		
 		<dependency>
 			<groupId>org.hibernate.common</groupId>
@@ -357,7 +357,7 @@
 		<dependency>
 			<groupId>org.zkoss.common</groupId>
 			<artifactId>zweb</artifactId>
-			<version>6.5.4</version>
+			<version>8.0.2.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.zkoss.common</groupId>
